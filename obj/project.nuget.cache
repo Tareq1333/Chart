@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IpD01lPBK1w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\charts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ByTech-1\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
