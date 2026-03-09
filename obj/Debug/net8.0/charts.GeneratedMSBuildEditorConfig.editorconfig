@@ -20,6 +20,82 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/AreaChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXEFyZWFDaGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/BarChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXEJhckNoYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/BubbleChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXEJ1YmJsZUNoYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/CandlestickChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXENhbmRsZXN0aWNrQ2hhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/ChartView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXENoYXJ0Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/ColumnChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXENvbHVtbkNoYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/ComboChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXENvbWJvQ2hhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/DonutChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXERvbnV0Q2hhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/Gauge.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXEdhdWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/GeoChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXEdlb0NoYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/Histogram.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXEhpc3RvZ3JhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/LineChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXExpbmVDaGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/OrgChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXE9yZ0NoYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/PieChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXFBpZUNoYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/ScatterChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXFNjYXR0ZXJDaGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/SteppedAreaChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXFN0ZXBwZWRBcmVhQ2hhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXFRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/Timeline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXFRpbWVsaW5lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/charts/Treemap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2hhcnRzXFRyZWVtYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ByTech-1/Desktop/ASP.NET/charts/Views/Home/charts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjaGFydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

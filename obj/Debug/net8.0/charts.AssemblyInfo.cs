@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("charts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a7c58abab328f1947e5de0810ffb28d36107f6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("charts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("charts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

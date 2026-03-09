@@ -1,0 +1,69 @@
+﻿@{
+    var chartTitle = ViewBag.ChartTitle ?? "Chart";
+    var chartType = ViewBag.ChartType ?? "BarChart";
+}
+
+<h1>@chartTitle :</h1>
+<div id="chart_div" style="width: 100%; height: 500px;"></div>
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    function loadChartPackage(chartType, callback) {
+        let packageName = 'corechart'; // default
+        switch(chartType) {
+            case 'Gauge': packageName = 'gauge'; break;
+            case 'GeoChart': packageName = 'geochart'; break;
+            case 'OrgChart': packageName = 'orgchart'; break;
+            case 'Table': packageName = 'table'; break;
+            case 'Timeline': packageName = 'timeline'; break;
+            case 'Treemap': packageName = 'treemap'; break;
+        }
+        google.charts.load('current', { packages: [packageName] });
+        google.charts.setOnLoadCallback(callback);
+    }
+
+    function drawChart(chartId, chartType) {
+        loadChartPackage(chartType, function() {
+            $.get('/Charts/GetChartData/' + chartId, function(data) {
+                var dataTable = new google.visualization.DataTable();
+                dataTable.addColumn('string', 'Label');
+                dataTable.addColumn('number', 'Value');
+
+                data.points.forEach(p => dataTable.addRow([p.label, p.value]));
+
+                var options = { title: data.title };
+
+                let chart;
+                switch(chartType) {
+                    case 'AreaChart': chart = new google.visualization.AreaChart(document.getElementById('chart_div')); break;
+                    case 'BarChart': chart = new google.visualization.BarChart(document.getElementById('chart_div')); break;
+                    case 'BubbleChart': chart = new google.visualization.BubbleChart(document.getElementById('chart_div')); break;
+                    case 'CandlestickChart': chart = new google.visualization.CandlestickChart(document.getElementById('chart_div')); break;
+                    case 'ColumnChart': chart = new google.visualization.ColumnChart(document.getElementById('chart_div')); break;
+                    case 'ComboChart': chart = new google.visualization.ComboChart(document.getElementById('chart_div')); break;
+                    case '': chart = new google.visualization.PieChart(document.getElementById('chart_div')); break;
+                    case 'Gauge': chart = new google.visualization.Gauge(document.getElementById('chart_div')); break;
+
+                    case 'GeoChart': chart = new google.visualization.GeoChart(document.getElementById('chart_div')); break;
+                    case 'Histogram': chart = new google.visualization.Histogram(document.getElementById('chart_div')); break;
+                    case 'LineChart': chart = new google.visualization.LineChart(document.getElementById('chart_div')); break;
+                    case 'OrgChart': chart = new google.visualization.OrgChart(document.getElementById('chart_div')); break;
+                    case 'PieChart': chart = new google.visualization.PieChart(document.getElementById('chart_div')); break;
+
+                    case 'SteppedAreaChart': chart = new google.visualization.SteppedAreaChart(document.getElementById('chart_div')); break;
+                    case 'Table': chart = new google.visualization.Table(document.getElementById('chart_div')); break;
+                    case 'Timeline': chart = new google.visualization.Timeline(document.getElementById('chart_div')); break;
+                    case 'Treemap': chart = new google.visualization.TreeMap(document.getElementById('chart_div')); break;
+                    default: chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+                }
+
+                chart.draw(dataTable, options);
+            });
+        });
+    }
+
+    // استدعاء الرسم باستخدام ViewBag.ChartType
+    drawChart(1, '@chartType');
+</script>

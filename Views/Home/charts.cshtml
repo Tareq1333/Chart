@@ -1,3 +1,40 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+
+
+@model List<ChartItem>
+
+
+<div class="row">
+
+    @foreach (var chart in Model)
+    {
+        <div class="col-md-3 mb-3">
+
+            <div class="card" style="width: 18rem;">
+                <img src="@Url.Content(chart.ImageUrl)" class="card-img-top" width="45px" height="105px">
+
+                <div class="card-body">
+
+                    <h5 class="card-title">
+                        @chart.Title
+                    </h5>
+
+                    <p class="card-text">
+                        Chart example
+                    </p>
+
+                    <a asp-controller="charts"
+                       asp-action="@chart.ActionName"
+                       class="btn btn-primary">
+                        Open
+                    </a>
+
+                </div>
+            </div>
+
+        </div>
+    }
+
+</div>

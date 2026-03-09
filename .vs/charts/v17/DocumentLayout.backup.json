@@ -3,24 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\views\\home\\charts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:views\\home\\charts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\views\\charts\\chartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:views\\charts\\chartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\controllers\\chartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:controllers\\chartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\views\\charts\\bubblechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:views\\charts\\bubblechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\views\\charts\\areachart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:views\\charts\\areachart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\views\\charts\\barchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:views\\charts\\barchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\views\\charts\\combochart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:views\\charts\\combochart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\views\\charts\\columnchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:views\\charts\\columnchart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\views\\home\\charts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:views\\home\\charts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\models\\chartdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:models\\chartdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\models\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:models\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\models\\chartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:models\\chartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\migrations\\20260309093010_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:migrations\\20260309093010_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|c:\\users\\bytech-1\\desktop\\asp.net\\charts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDA2BB8C-9877-4F67-B17B-BD7816BBF8A7}|charts.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,48 +94,232 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "charts.cshtml",
-              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\Home\\charts.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\charts.cshtml",
-              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\Home\\charts.cshtml",
-              "RelativeToolTip": "Views\\Home\\charts.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ComboChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\charts\\ComboChart.cshtml",
+              "RelativeDocumentMoniker": "Views\\charts\\ComboChart.cshtml",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\charts\\ComboChart.cshtml",
+              "RelativeToolTip": "Views\\charts\\ComboChart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-08T10:33:11.166Z"
+              "WhenOpened": "2026-03-09T11:01:24.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColumnChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\charts\\ColumnChart.cshtml",
+              "RelativeDocumentMoniker": "Views\\charts\\ColumnChart.cshtml",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\charts\\ColumnChart.cshtml",
+              "RelativeToolTip": "Views\\charts\\ColumnChart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T11:01:20.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChartView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\charts\\ChartView.cshtml",
+              "RelativeDocumentMoniker": "Views\\charts\\ChartView.cshtml",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\charts\\ChartView.cshtml",
+              "RelativeToolTip": "Views\\charts\\ChartView.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:55:00.974Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T10:31:52.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Title": "BubbleChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\charts\\BubbleChart.cshtml",
+              "RelativeDocumentMoniker": "Views\\charts\\BubbleChart.cshtml",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\charts\\BubbleChart.cshtml",
+              "RelativeToolTip": "Views\\charts\\BubbleChart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-08T10:30:22.611Z",
+              "WhenOpened": "2026-03-09T07:31:47.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AreaChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\charts\\AreaChart.cshtml",
+              "RelativeDocumentMoniker": "Views\\charts\\AreaChart.cshtml",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\charts\\AreaChart.cshtml",
+              "RelativeToolTip": "Views\\charts\\AreaChart.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T08:41:03.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:31:52.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "chartsController.cs",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Controllers\\chartsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\chartsController.cs",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Controllers\\chartsController.cs",
+              "RelativeToolTip": "Controllers\\chartsController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAwwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:48:16.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "charts.cshtml",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\Home\\charts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\charts.cshtml",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\Home\\charts.cshtml",
+              "RelativeToolTip": "Views\\Home\\charts.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T10:33:11.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BarChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\charts\\BarChart.cshtml",
+              "RelativeDocumentMoniker": "Views\\charts\\BarChart.cshtml",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\charts\\BarChart.cshtml",
+              "RelativeToolTip": "Views\\charts\\BarChart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:15:47.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:20:59.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T10:25:39.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChartData.cs",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Models\\ChartData.cs",
+              "RelativeDocumentMoniker": "Models\\ChartData.cs",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Models\\ChartData.cs",
+              "RelativeToolTip": "Models\\ChartData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:12:00.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Chart.cs",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Models\\Chart.cs",
+              "RelativeDocumentMoniker": "Models\\Chart.cs",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Models\\Chart.cs",
+              "RelativeToolTip": "Models\\Chart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:10:52.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T07:05:29.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Models\\ChartItem.cs",
+              "RelativeDocumentMoniker": "Models\\ChartItem.cs",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Models\\ChartItem.cs",
+              "RelativeToolTip": "Models\\ChartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:11:38.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:05:32.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260309093010_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Migrations\\20260309093010_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260309093010_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Migrations\\20260309093010_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260309093010_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:30:10.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -79,19 +327,46 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-08T10:30:17.321Z"
+              "WhenOpened": "2026-03-08T10:30:17.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABnAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-09T07:05:46.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:11:08.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ByTech-1\\Desktop\\ASP.NET\\charts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-08T10:25:39.19Z",
+              "WhenOpened": "2026-03-08T10:30:22.611Z",
               "EditorCaption": ""
             }
           ]
